@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Input Form Page Tests"
+           tests="12"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="2.966">
+  <properties />
+  
+  
+            <testcase name="testSimpleTwoPage" time="0.302" classname="seleniumTests.basics.Test_SimpleFrom" />
+                <testcase name="testSimpleTwoNaNPage" time="0.331" classname="seleniumTests.basics.Test_SimpleFrom" />
+                <testcase name="testSimpleFormPage" time="0.192" classname="seleniumTests.basics.Test_SimpleFrom" />
+                <testcase name="testSimpleFormPage" time="0.182" classname="seleniumTests.basics.Test_SimpleFrom" />
+                <testcase name="testSimpleTwoPage" time="0.251" classname="seleniumTests.basics.Test_SimpleFrom" />
+                <testcase name="testSimpleTwoNaNPage" time="0.330" classname="seleniumTests.basics.Test_SimpleFrom" />
+                <testcase name="testSimpleTwoPage" time="0.244" classname="seleniumTests.basics.Test_SimpleFrom" />
+                <testcase name="testSimpleFormPage" time="0.248" classname="seleniumTests.basics.Test_SimpleFrom" />
+                <testcase name="testSimpleFormPage" time="0.188" classname="seleniumTests.basics.Test_SimpleFrom" />
+                <testcase name="testSimpleTwoNaNPage" time="0.318" classname="seleniumTests.basics.Test_SimpleFrom" />
+                <testcase name="testSimpleFormPage" time="0.194" classname="seleniumTests.basics.Test_SimpleFrom" />
+                <testcase name="testSimpleFormPage" time="0.186" classname="seleniumTests.basics.Test_SimpleFrom" />
+      
+</testsuite>

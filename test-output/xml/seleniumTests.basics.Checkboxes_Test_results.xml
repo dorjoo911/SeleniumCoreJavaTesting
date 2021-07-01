@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testsuite name="Input Form Page Tests"
+           tests="2"
+           failures="0"
+           errors="0"
+           skipped="0"
+           time="0.851">
+  <properties />
+  
+  
+            <testcase name="testMultipleCheckboxDemo1" time="0.671" classname="seleniumTests.basics.Checkboxes_Test" />
+                <testcase name="testCheckboxPageOptionOne" time="0.180" classname="seleniumTests.basics.Checkboxes_Test" />
+      
+</testsuite>
